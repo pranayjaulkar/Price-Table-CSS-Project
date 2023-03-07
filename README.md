@@ -1,3 +1,3 @@
 # Price-Table-CSS-Project
 
-A simple CSS Project for Pricing Table
+A simple responsive CSS Project for Pricing Page
